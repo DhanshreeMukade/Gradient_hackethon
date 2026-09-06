@@ -1,4 +1,4 @@
-# Gradient_hackethon
+# Gradient_hackathon
 🚀 Project Update | E-Commerce Data Analysis
 
 Excited to share our E-Commerce Data Analysis project developed as part of the Data Analytics Hackathon conducted by Gradient! 📊
