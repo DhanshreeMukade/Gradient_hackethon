@@ -25,4 +25,6 @@ Late deliveries showed a strong association with lower customer satisfaction, wi
 We’ve also organized our project work and code on GitHub as part of our collaborative development process. 🤝
 
 A great experience of learning, analyzing, building, and collaborating as a team!
+<img width="1497" height="817" alt="Screenshot 2026-09-06 222431" src="https://github.com/user-attachments/assets/c0da8df4-804f-4ebc-a042-410e030542f1" />
+
 
